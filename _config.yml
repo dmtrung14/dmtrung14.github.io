@@ -30,6 +30,9 @@ twitter_username: jekyllrb
 github_username:
 
 # Build settings
+<<<<<<< HEAD
+theme: minima
+>>>>>>> parent of bdb3693 (Set theme jekyll-theme-cayman)
 plugins:
   - jekyll-feed
 
